@@ -1,2 +1,3 @@
 pandas
 pydantic
+python-dotenv
