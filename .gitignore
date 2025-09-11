@@ -210,3 +210,5 @@ __marimo__/
 #db
 
 */**/db/*
+.env
+env_langchain/
