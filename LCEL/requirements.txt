@@ -30,9 +30,4 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-fastapi
-pydantic
-starlette
-uvicorn
-langserve
-sse_starlette
+add_routes
