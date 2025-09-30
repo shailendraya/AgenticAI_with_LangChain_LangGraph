@@ -1,4 +1,5 @@
 langchain
+langchain-core
 python-dotenv
 ipykernel
 langchain-community
@@ -36,3 +37,7 @@ starlette
 uvicorn
 langserve
 sse_starlette
+langgraph
+langgraph-cli[inmem]
+pyppeteer
+pymermaid
